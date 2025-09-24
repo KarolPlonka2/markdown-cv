@@ -31,35 +31,35 @@ Software engineer with 2 years of commercial experience.
 
 ## Specialized in
 - **Backend Development & REST API**
-- **Data Engineering & Visualization**
+- **LLM & AI Vision driven solutions**
 - **DevOps**
 
 ## Technologies
-- **Python** (FastAPI, Django, Flask, SQLAlchemy, Pydantic, Dash, PyTest)
+- **Python** (FastAPI, Django, Flask, SQLAlchemy, Pydantic, Celery, PyTest)
 - **SQL** (MySQL, PostgreSQL, SQLite)
-- **Docker**
-- **Linux**
+- **Docker, Kubernetes, Terraform**
+- **Gitlab Pipelines, Github Actions**
+- **Linux** (Debian)
 - **JavaScript** & **TypeScript** (React, React Native)
 
 ## Work experience
-`July 2024 - now`
+`June 2025 - now`
+__Asseco BS__, Software Engineer
+- Worked on large scale web-scrapping AI agent. (__FastAPI__, __Django__, __Celery__, __Langchain__, __Langgraph__)
+- Helped with building and maintaining CI/CD pipelines. (__Gitlab Pipelines__, __Terraform__, __Kubernetes__)
+
+`July 2024 - May 2025`
 __Rekurencja.com__, Software Engineer
-- Created auto stock synchronization app for online store with content enhancement using __LLM__'s and image processing handling over 5000 products. (__Python__)
-<!-- - Integrated __gen AI__ tools for __WordPress__ e-commerce solutions (__PHP__). -->
-- IoT data fetching and visualization with __Python__, __PHP__ and __JavaScript__.
+- Created PIM-like software with content enhancement using __LLM__'s and image processing handling over 5000 products daily. (__Python__)
+- Created app for data fetching and visualization based on live IoT devices data with __Python__, __PHP__ and __JavaScript__.
 
 `September 2023 - June 2024`
 __Valeo__, Junior Software Engineer
 - Developed __FastAPI__ app for getting AI models predictions generation and models management.
 - Created web-based data visualization tools using __Flask__ and __Plotly Dash__.
-- Provided hosting for the above apps in __Linux__ environment with help of __Docker__.
+- Provided hosting for the apps mentioned above in __Linux__ environment with help of __Docker__.
 - Helped with data collecting and cleaning used for AI models training with help of __JupyterLab__, __Pandas__, __NumPy__ etc.
 
-`July 2023 - August 2023`
-__Rekurencja.com__, Software Engineer Intern
-- Helped develop __WordPress Plugins__ in __PHP__.
-- Worked on __Custom WordPress Themes__ (__PHP__, __SASS__, __JS__).
-- Managed legacy __Django__ app.
 
 ## Education
 `2020 - 2024`
