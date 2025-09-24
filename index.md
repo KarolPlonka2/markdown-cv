@@ -45,20 +45,20 @@ Software engineer with 2 years of commercial experience.
 ## Work experience
 `June 2025 - now`
 __Asseco BS__, Software Engineer
-- Worked on large scale web-scrapping AI agent. (__FastAPI__, __Django__, __Celery__, __Langchain__, __Langgraph__)
+- Worked on large-scale web-scraping AI agent. (__FastAPI__, __Django__, __Celery__, __Langchain__, __Langgraph__)
 - Helped with building and maintaining CI/CD pipelines. (__Gitlab Pipelines__, __Terraform__, __Kubernetes__)
 
 `July 2024 - May 2025`
 __Rekurencja.com__, Software Engineer
 - Created PIM-like software with content enhancement using __LLM__'s and image processing handling over 5000 products daily. (__Python__)
-- Created app for data fetching and visualization based on live IoT devices data with __Python__, __PHP__ and __JavaScript__.
+- Created app for data fetching and visualization from live IoT devices data with __Python__, __PHP__ and __JavaScript__.
 
 `September 2023 - June 2024`
 __Valeo__, Junior Software Engineer
-- Developed __FastAPI__ app for getting AI models predictions generation and models management.
+- Developed __FastAPI__ interface to interact with and manage AI models.
 - Created web-based data visualization tools using __Flask__ and __Plotly Dash__.
 - Provided hosting for the apps mentioned above in __Linux__ environment with help of __Docker__.
-- Helped with data collecting and cleaning used for AI models training with help of __JupyterLab__, __Pandas__, __NumPy__ etc.
+- Helped collect and clean data used for AI training using __JupyterLab__, __Pandas__, __NumPy__ etc.
 
 
 ## Education
